@@ -1,4 +1,6 @@
-# Math Series by Daniel Dills
+# Modules, Containers, and Testing
+
+by Daniel Dills
 
 ## Summary
 
@@ -21,3 +23,17 @@ Create a function called sum_series. One required parameter and two optional par
 - Calling this function with no optional parameters will produce numbers from the fibonacci series. Calling it with the optional arguments 2 and 1 will produce values from the lucas numbers. Other values for the optional parameters will produce other series. Again, you may use recursion or iteration, or both. Again, ensure that your function has a well-formed docstring.
 
 - Add your series.py and test_series.py modules to your repository and commit frequently while working on your implementation. Include good commit messages that explain concisely both what you are doing and why.
+
+## Collaborations & Credit
+
+Prabin, Garfield, TA Anthony, TA Ben, TA Hexx, Instructor Roger
+
+### Sources & Information
+
+- Fibonacci function[source](https://www.geeksforgeeks.org/python-program-for-n-th-fibonacci-number/)
+
+- Lucas function [source](https://www.codespeedy.com/print-nth-iteration-of-lucas-sequence-in-python/)
+
+- [Fibonacci number Wiki](https://en.wikipedia.org/wiki/Fibonacci_number)
+
+- [Lucas number Wiki](https://en.wikipedia.org/wiki/Lucas_number)
